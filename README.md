@@ -10,7 +10,7 @@ Com uma conta do Spotify, é possível gerar um token que dará acesso às músi
 Após extrair os dados diretamente da API do Spotify no tempo que escolhi (uma semana), os dados são TRANSFORMADOS para uma arquivo JSON.  
 Este é um bom caminho, pois posso escolher as informações que desejo colocar em um dicionário e depois transformar em um DataFrame do Pandas. 
 
-#Carregamento
+# Carregamento
 Utilizando o SQLAlchemy crio um banco de dados, esse banco de dados é então alimentado com os dados do DataFrame.
 
 
