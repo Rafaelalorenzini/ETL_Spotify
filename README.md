@@ -4,4 +4,4 @@
 
 # Aquisição dos dados
 
- [Karolina Sowinska] (https://www.youtube.com/channel/UCAxnMry1lETl47xQWABvH7g)
+[I'm an inline-style link](https://www.google.com)
